@@ -14,4 +14,4 @@ If you want more information (on the code or on the subject in general), you can
 
 Thanks!
 
-##### Update : The NYT movie review API has been shutdown after the writing of my thesis. It is still possible to run the models but without the NYT variables
+#### Update : The NYT movie review API has been shutdown after the writing of my thesis. It is still possible to run the models but without the NYT variables
